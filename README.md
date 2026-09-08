@@ -1,6 +1,6 @@
-# Machine-learning-guided prospective discovery of a process-relevant Pd replacement candidate for furfural hydrogenation
+# Data and code for machine learning–guided identification of a cost-competitive palladium-free catalyst for furfural hydrogenation
 
-This repository contains the Python code, fixed machine-learning datasets, optimized model artifacts, bootstrap results, and plotting scripts supporting the manuscript *Machine-learning-guided prospective discovery of a process-relevant Pd replacement candidate for furfural hydrogenation*.
+This repository contains the Python code, fixed machine-learning datasets, optimized model artifacts, bootstrap results, and plotting scripts supporting the manuscript *Machine learning–guided identification of a cost-competitive palladium-free catalyst for furfural hydrogenation*.
 
 ## Overview
 

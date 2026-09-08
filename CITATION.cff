@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this code or dataset, please cite the associated manuscript."
-title: "Machine-learning-guided prospective discovery of a process-relevant Pd replacement candidate for furfural hydrogenation"
+title: "Data and code for machine learning–guided identification of a cost-competitive palladium-free catalyst for furfural hydrogenation"
 type: software
 version: 1.0.1
 date-released: 2026-08-15
