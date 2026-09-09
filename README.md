@@ -1,4 +1,4 @@
-# Data and code for machine learning–guided identification of a cost-competitive palladium-free catalyst for furfural hydrogenation
+# Machine learning–guided identification of a cost-competitive palladium-free catalyst for furfural hydrogenation
 
 This repository contains the Python code, fixed machine-learning datasets, optimized model artifacts, bootstrap results, and plotting scripts supporting the manuscript *Machine learning–guided identification of a cost-competitive palladium-free catalyst for furfural hydrogenation*.
 
