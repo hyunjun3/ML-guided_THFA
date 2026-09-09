@@ -72,8 +72,8 @@ This repository uses Git LFS for trained model artifacts. Clone with Git LFS ena
 
 ```bash
 git lfs install
-git clone <repository-url>
-cd Machine-learning-guided-process-relevant-replacement-of-Pd-catalysts-for-furfural-hydrogenation
+git clone https://github.com/hyunjun3/ML-guided_THFA.git
+cd ML-guided_THFA
 git lfs pull
 ```
 
